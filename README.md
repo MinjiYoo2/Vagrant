@@ -24,13 +24,15 @@ vagrant init
 
 
 
+
+
  ```bash
 vagrant up
  ```
 
-=> Vagrantfile에 명시된대로 vm 기동
+=> Vagrantfile에 명시된대로 vm 기동, virtual box키면 기동된거 확인가능
 
-=> virtual box키면 기동된거 확인가능
+
 
 
 
@@ -42,6 +44,8 @@ vagrant halt
 
 
 
+
+
 ```
 vagrant help
 ```
@@ -50,11 +54,15 @@ vagrant help
 
 
 
+
+
 ```bash
 vagrant reload
 ```
 
 => 재기동
+
+
 
 
 
